@@ -9,23 +9,23 @@ This repository serves as a resource for myself to quickly find and implement co
 ## Contents
 This repository contains a variety of C++ code snippets and tools, including:
 
-*Pointers
-*Strings
-*Arrays
-*Functions
-*Loops
+* Pointers
+* Strings
+* Arrays
+* Functions
+* Loops
 and more!
 
 Aswell as some useful simple programs & games such as:
-*Factorial Calculator
-*Hypotenuse Calculator
-*Celsius/Fahrenheit Temperature Converter
-*Random Number Generator
-*Credit Card Validator
-*Quiz game
-*Number Guessing Game
-*Rock Paper Scissors Game
-*Tic-Tac-Toe/Noughts and Crosses Game
+* Factorial Calculator
+* Hypotenuse Calculator
+* Celsius/Fahrenheit Temperature Converter
+* Random Number Generator
+* Credit Card Validator
+* Quiz game
+* Number Guessing Game
+* Rock Paper Scissors Game
+* Tic-Tac-Toe/Noughts and Crosses Game
 
 
 
